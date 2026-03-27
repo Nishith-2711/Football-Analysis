@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+models/*.pt
+
+# Videos
+videos/*.mp4
+output_videos/
+
+# YOLO runs
+runs/
+
+# Stubs / cache
+stubs/*.pkl
+
+# Logs
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+training/
