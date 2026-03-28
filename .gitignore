@@ -19,8 +19,6 @@ runs/
 # Stubs / cache
 stubs/*.pkl
 
-# Logs
-*.txt
 
 # OS files
 .DS_Store
